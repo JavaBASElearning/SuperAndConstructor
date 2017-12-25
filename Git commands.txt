@@ -1,3 +1,6 @@
+chmod +x upload.sh
+./upload.sh
+
 git add -u -                                                 add all changed files
 git commit -m "comment" -                                    commit all changes
 git commit -a -m "comment" -                                 commit all changes (+ git add -u, but without new files)
